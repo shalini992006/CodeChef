@@ -1,0 +1,7 @@
+import random
+
+names = ["Ravi", "Sita", "Arjun", "Priya", "Rahul"]
+
+selected = random.choice(names)
+
+print("Selected Name:", selected)
